@@ -406,10 +406,10 @@ This repository builds upon [Flow-GRPO](https://github.com/yifan123/flow_grpo), 
 If you find this work or repository useful, please cite our paper:
 
 ```bibtex
-@inproceedings{xu2026designing,
-  title={Designing Reinforcement Learning for Diffusion Models: A Unified Path-Space View},
-  author={Xu, Yixian and Zhang, Yuanrui and Luo, Shengjie and Gao, Kaiyuan and Wang, Liwei and He, Di},
-  booktitle={Advances in Neural Information Processing Systems (NeurIPS)},
+@article{xu2026designing,
+  title={Designing reinforcement learning for diffusion models: A unified path-space view},
+  author={Xu, Yixian and Zhang, Yuanrui and Luo, Shengjie and Wang, Liwei and He, Di},
+  journal={arXiv preprint arXiv:2608.14430},
   year={2026}
 }
 ```
